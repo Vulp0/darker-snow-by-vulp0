@@ -10,6 +10,6 @@ Playing minecraft at night but you live in a snow biome? This pack is made for y
 
 ## Preview
 ![Early in the morning](morning.png)
-![Ice and snow during the day](day.png.png)
-![Forest at night](night.png.png)
+![Ice and snow during the day](day.png)
+![Forest at night](night.png)
 ![Into the dark](landscape.png)
