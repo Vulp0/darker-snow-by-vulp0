@@ -1,5 +1,5 @@
 # darker-snow-by-vulp0 (1.20.X)
-Playing minecraft at night but you live in a snow biome? This resource pack was made for you.
+Playing minecraft at night but you live in a snow biome? This pack is made for you.
 
 ## Installation
 - Click the green Code button and click Download ZIP
